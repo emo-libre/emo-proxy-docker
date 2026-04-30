@@ -16,6 +16,10 @@ This project provides a Docker-based environment for intercepting and proxying t
 4. The [waringer/emo](https://github.com/waringer/emo) proxy can be used to analyze and log EMO requests. You can run it as a Docker container (see commented section in `docker-compose.yml`) or directly from your terminal for more flexibility.
 
 ## Usage
+### App
+Install the app made by JoVe13: https://github.com/JoVe13/emoProxy-App
+
+### Install and run manually
 ### Prerequisites
 - Docker and Docker Compose installed
 - SSL certificates placed in `nginx/ssl/` (self-signed)
